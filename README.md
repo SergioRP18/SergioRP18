@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hey there, I'm Sergio<br><br>> "It's not much, but it's honest work 😉"<br><br>I'm passionate about **UX Research**, but I also spend some time programming. I love digging into how people think, how they interact with technology, and how we can make those experiences better, smoother, and more human.<br><br>I'm not a code ninja (yet), but I enjoy bringing ideas to life—one honest commit at a time.<br><br>💡 What I'm Into<br><br>- 🔍 **User Experience Research**  <br>- 🧪 Real user testing (the best kind of feedback)<br>- 💻 **Frontend & quick prototyping**<br>- 🤝 Tech that makes sense (and a difference)<br><br>🧠 Philosophy<br><br>> I design for humans, not for KPIs.<br><br>🚀 Projects<br><br>I’m working on stuff that blends research, empathy, and code.  <br>Feel free to explore my repos — and if something sparks your interest, let’s build it together! 🌱<br><br>---<br><br>📫 Wanna say hi or collaborate?  <br>Reach me at: sergio.restrepo@u.icesi.edu.co<br>
 
 
