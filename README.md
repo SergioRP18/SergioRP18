@@ -26,10 +26,10 @@ Feel free to explore my repos — and if something sparks your interest, let’s
 Reach me at: sergio.restrepo@u.icesi.edu.co<br>
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sergiorestrepo)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/15eV4SsU32/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sergio_restrepo_p?igsh=MjJ6YWN6bXZ5ZGls)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-restrepo-prado-0bb298313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/sergiorestrepo)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15eV4SsU32/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sergio_restrepo_p?igsh=MjJ6YWN6bXZ5ZGls)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-restrepo-prado-0bb298313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergio.restrepo@u.icesi.edu.co) 
 
 # 💻 Tech Stack:
