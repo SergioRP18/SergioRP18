@@ -14,7 +14,7 @@ I'm not a code ninja (yet), but I enjoy bringing ideas to life—one honest comm
 - 🤝 Tech that makes sense (and a difference)<br><br>
 
 🧠 Philosophy<br><br>
-> I design for humans, not for KPIs.<br><br>
+> I design for humans, not for metrics.<br><br>
 
 🚀 Projects<br><br>
 I’m working on stuff that blends research, empathy, and code.  <br>
