@@ -2,7 +2,6 @@
   <img src="https://github.com/SergioRP18/My-banner/blob/main/LinkedIn%20cover%20-%201.png?raw=true" alt="Sergio Restrepo Banner" style="max-width: 100%;">
 </p>
 
-# About Me:
 👋 Hey there, I'm Sergio<br><br>
 > "It's not much, but it's honest work 😉"<br><br>
 I'm passionate about **UX Research**, but I also spend some time programming. I love digging into how people think, how they interact with technology, and how we can make those experiences better, smoother, and more human.<br><br>
