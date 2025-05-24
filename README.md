@@ -3,7 +3,7 @@
 </p>
 
 👋 Hey there, I'm Sergio<br><br>
-> "It's not much, but it's honest work 😉"<br><br>
+
 I'm passionate about **UX Research**, but I also spend some time programming. I love digging into how people think, how they interact with technology, and how we can make those experiences better, smoother, and more human.<br><br>
 I'm not a code ninja (yet), but I enjoy bringing ideas to life—one honest commit at a time.<br><br>
 
