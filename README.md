@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SergioRP18/My-banner/blob/main/LinkedIn%20cover%20-%202.png?raw=true" alt="Sergio Restrepo Banner" style="max-width: 100%;">
+  <img src="https://github.com/SergioRP18/My-banner/blob/main/Behance%20cover%20-%204.png?raw=true" alt="Sergio Restrepo Banner" style="max-width: 100%;">
 </p>
 
 👋 Hey there, I'm Sergio<br><br>
